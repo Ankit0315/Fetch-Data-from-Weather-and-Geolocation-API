@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color:white;
+   align-items: center;
+   box-sizing: border-box;
+   padding: 20px;
+   margin: 20px;
+}
+
+.name{
+    color: white;
+    font-size: 5rem;
+  text-align: center;
+}
+.btn{
+    text-align: center;
+}
+#fetch_data{
+    width: 30%;
+    height: 2.5rem;
+}
